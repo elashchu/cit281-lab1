@@ -1,0 +1,18 @@
+ Volume in drive C is Big Boy Storage
+ Volume Serial Number is D62A-B00B
+
+ Directory of C:\Users\Emily\Desktop\CIT281\cit281
+
+04/01/2021  08:52 PM    <DIR>          .
+04/01/2021  08:52 PM    <DIR>          ..
+04/01/2021  08:52 PM                 0 lab-01-folders.txt
+04/01/2021  08:51 PM    <DIR>          p1
+04/01/2021  08:24 PM    <DIR>          p2
+04/01/2021  08:24 PM    <DIR>          p3
+04/01/2021  08:24 PM    <DIR>          p4
+04/01/2021  08:24 PM    <DIR>          p5
+04/01/2021  08:24 PM    <DIR>          p6
+04/01/2021  08:24 PM    <DIR>          p7
+04/01/2021  08:24 PM    <DIR>          p8
+               1 File(s)              0 bytes
+              10 Dir(s)  333,891,530,752 bytes free
